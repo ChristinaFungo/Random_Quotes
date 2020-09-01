@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Random Quotes</string>
+
+    <string-array name="quotes">
+        <item>Colossians 3:23\nWhatever you do, work at it with all your heart, as working for the Lord, not for human masters.</item>
+        <item>1 Corinthians 6:19-20\nDo you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; 20 you were bought at a price. Therefore honor God with your bodies.</item>
+        <item>1 Corinthians 15:58\nTherefore, my dear brothers and sisters, stand firm. Let nothing move you. Always give yourselves fully to the work of the Lord, because you know that your labor in the Lord is not in vain.</item>
+        <item>1 Corinthians 16:13\nBe on your guard; stand firm in the faith; be courageous; be strong.</item>
+        <item>2 Corinthians 12:9\nBut he said to me, "My grace is sufficient for you, for my power is made perfect in weakness." Therefore I will boast all the more gladly about my weaknesses, so that Christ’s power may rest on me.</item>
+        <item>Proverbs 3:5\nTrust in the Lord with all your heart and lean not on your own understanding.</item>
+        <item>Luke 15:7\n I tell you that in the same way there will be more rejoicing in heaven over one sinner who repents than over ninety-nine righteous persons who do not need to repent.</item>
+        <item>Matthew 19:26\nJesus looked at them and said, "With man this is impossible, but with God all things are possible."</item>
+        <item>Romans 12:11\nNever be lacking in zeal, but keep your spiritual fervor, serving the Lord.</item>
+        <item>Romans 15:13\nMay the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.</item>
+        <item>Matthew 6:1-4\n"Be careful not to practice your righteousness in front of others to be seen by them. If you do, you will have no reward from your Father in heaven. "So when you give to the needy, do not announce it with trumpets, as the hypocrites do in the synagogues and on the streets, to be honored by others. Truly I tell you, they have received their reward in full. But when you give to the needy, do not let your left hand know what your right hand is doing, so that your giving may be in secret. Then your Father, who sees what is done in secret, will reward you.</item>
+        <item>2 Timothy 1:7\nFor the Spirit God gave us does not make us timid, but gives us power, love and self-discipline.</item>
+        <item>Philippians 4:13-19\nI can do all this through him who gives me strength. 14 Yet it was good of you to share in my troubles. Moreover, as you Philippians know, in the early days of your acquaintance with the gospel, when I set out from Macedonia, not one church shared with me in the matter of giving and receiving, except you only; for even when I was in Thessalonica, you sent me aid more than once when I was in need. Not that I desire your gifts; what I desire is that more be credited to your account. I have received full payment and have more than enough. I am amply supplied, now that I have received from Epaphroditus the gifts you sent. They are a fragrant offering, an acceptable sacrifice, pleasing to God. And my God will meet all your needs according to the riches of his glory in Christ Jesus.</item>
+        <item>Isaiah 40:28-31\nDo you not know? Have you not heard? The Lord is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary, and his understanding no one can fathom. He gives strength to the weary and increases the power of the weak. Even youths grow tired and weary, and young men stumble and fall; but those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.</item>
+        <item>Isaiah 41:10\nSo do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.</item>
+        <item>Galatians 5:12\n As for those agitators, I wish they would go the whole way and emasculate themselves!</item>
+        <item>Galatians 6:7-8\nDo not be deceived: God cannot be mocked. A man reaps what he sows. 8 Whoever sows to please their flesh, from the flesh will reap destruction; whoever sows to please the Spirit, from the Spirit will reap eternal life.</item>
+        <item>Jeremiah 29:11\nFor I know the plans I have for you," declares the Lord, "plans to prosper you and not to harm you, plans to give you hope and a future.</item>
+        <item>Hebrews 12:1-2\nTherefore, since we are surrounded by such a great cloud of witnesses, let us throw off everything that hinders and the sin that so easily entangles. And let us run with perseverance the race marked out for us, fixing our eyes on Jesus, the pioneer and perfecter of faith. For the joy set before him he endured the cross, scorning its shame, and sat down at the right hand of the throne of God.</item>
+        <item>“If you judge people, you have no time to love them.”\n Mother Teresa</item>
+        <item>“Not all of us can do great things. But we can do small things with great love.”\n Mother Teresa</item>
+        <item>“Peace begins with a smile..”\n Mother Teresa</item>
+        <item>“I am not sure exactly what heaven will be like, but I know that when we die and it comes time for God to judge us, he will not ask, ’How many good things have you done in your life?’ rather he will ask, ’How much love did you put into what you did?”\n Mother Teresa</item>
+        <item>“Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.”\n Mother Theresa</item>
+        <item>“Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.”\n Mother Teresa</item>
+        <item>“Do not think that love in order to be genuine has to be extraordinary. What we need is to love without getting tired. Be faithful in small things because it is in them that your strength lies.”\nMother Teresa</item>
+        <item>“Kind words can be short and easy to speak, but their echoes are truly endless.”\n Mother Teresa</item>
+        <item>“Let no one ever come to you without leaving better and happier. Be the living expression of God’s kindness: kindness in your face, kindness in your eyes, kindness in your smile.”\nMother Teresa</item>
+        <item>“The most terrible poverty is loneliness, and the feeling of being unloved.”\nMother Teresa</item>
+        <item>“If we have no peace, it is because we have forgotten that we belong to each other.”\n Mother Teresa</item>
+        <item>“What can you do to promote world peace? Go home and love your family.”\n Mother Teresa</item>
+        <item>“It’s not how much we give but how much love we put into giving.”\n Mother Theresa</item>
+        <item>“At the end of life we will not be judged by how many diplomas we have received, how much money we have made, how many great things we have done. We will be judged by "I was hungry, and you gave me something to eat, I was naked and you clothed me. I was homeless, and you took me in.”\nMother Teresa</item>
+        <item>“I alone cannot change the world, but I can cast a stone across the waters to create many ripples.”\nMother Teresa</item>
+        <item>“Pray, hope, and don’t worry. Worry is useless. God is merciful and will hear your prayer.”\n Padre Pio</item>
+        <item>“Have courage and do not fear the assaults of the Devil. Remember this forever; it is a healthy sign if the devil shouts and roars around your conscience, since this shows that he is not inside your will.”\nPadre Pio</item>
+        <item>“My past, O Lord, to Your mercy; my present, to Your love; my future to Your providence.”\n St. Padre Pio</item>
+        <item>“Joy, with peace, is the sister of charity. Serve the Lord with laughter.”\n Padre Pio</item>
+        <item>“Prayer is the best weapon we have; it is the key to God’s heart. You must speak to Jesus not only with your lips, but with your heart. In fact on certain occasions you should only speak to Him with your heart.”\nPadre Pio, Padre Pio</item>
+        <item>“The life of a Christian is nothing but a perpetual struggle against self; there is no flowering of the soul to the beauty of its perfection except at the price of pain”\n Padre Pio</item>
+        <item>“The longer the trial to which God subjects you, the greater the goodness in comforting you during the time of the trial and in the exaltation after the combat.”\n Padre Pio</item>
+        <item>“The most beautiful act of faith is the one made in darkness, in sacrifice, and with extreme effort.”\n Padre Pio</item>
+        <item>“Do you not see the Madonna always beside the tabernacle?”\n Padre Pio</item>
+        <item>Together with a culture of work, there must be a culture of leisure as gratification. To put it another way: people who work must take the time to relax, to be with their families, to enjoy themselves, read, listen to music, play a sport.\nPope Francis</item>
+        <item>The root of this possibility of doing good - that we all have - is in creation.\nPope Francis</item>
+        <item>Find new ways to spread the word of God to every corner of the world.\nPope Francis</item>
+        <item>Jesus teaches us another way: Go out. Go out and share your testimony, go out and interact with your brothers, go out and share, go out and ask. Become the Word in body as well as spirit.\nPope Francis</item>
+        <item>Each of us has a vision of good and of evil. We have to encourage people to move towards what they think is good... Everyone has his own idea of good and evil and must choose to follow the good and fight evil as he conceives them. That would be enough to make the world a better place.\nPope Francis</item>
+        <item>“The splendor of the rose and the whiteness of the lily do not rob the little violet of it’s scent nor the daisy of its simple charm. If every tiny flower wanted to be a rose, spring would lose its loveliness.”\n St. Therese of Lisieux</item>
+        <item>“Miss no single opportunity of making some small sacrifice, here by a smiling look, there by a kindly word; always doing the smallest right and doing it all for love.”\nSt. Therese of Lisieux</item>
+        <item>“For me, prayer is a surge of the heart; it is a simple look turned toward heaven, it is a cry of recognition and of love, embracing both trial and joy.”\n St. Therese of Lisieux</item>
+        <item>“Without love, deeds, even the most brilliant, count as nothing.”\nSt. Therese of Lisieux</item>
+        <item>“The world’s thy ship and not thy home.”\n Saint Therese of Lisieux</item>
+        <item>“If every tiny flower wanted to be a rose, spring would lose its loveliness.”\n St. Therese of Lisieux</item>
+        <item>Proverbs 17:17\n"A friend loveth at all times, and a brother is born for adversity."</item>
+        <item>Philippians 2:3\n"Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves."</item>
+        <item>Colossians 3:13\n"Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you."</item>
+        <item>Proverbs 18:24\n"There are "friends" who destroy each other, but a real friend sticks closer than a brother."</item>
+        <item>1 Samuel 18:4\n"Jonathan took off the robe he was wearing and gave it to David, along with his tunic, and even his sword, his bow, and his belt."</item>
+        <item>Proverbs 16:28\n"A perverse person stirs up conflict, and a gossip separates close friends."</item>
+        <item>Psalm 37:3\n"Trust in the Lord and do good; dwell in the land and enjoy safe pasture."</item>
+        <item>Job 2:11\n"When Job’s three friends, Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite, heard about all the troubles that had come upon him, they set out from their homes and met together by agreement to go and sympathize with him and comfort him."</item>
+        <item>Proverbs 18:24\n"One who has unreliable friends soon comes to ruin, but there is a friend who sticks closer than a brother."</item>
+        <item>Proverbs 19:20\n"Listen to advice and accept discipline, and at the end you will be counted among the wise."</item>
+        <item>Ecclesiastes 4:9-12\n"Two people are better off than one, for they can help each other succeed. If one person falls, the other can reach out and help. But someone who falls alone is in real trouble. Likewise, two people lying close together can keep each other warm. But how can one be warm alone? A person standing alone can be attacked and defeated, but two can stand back-to-back and conquer. Three are even better, for a triple-braided cord is not easily broken."</item>
+        <item>Genesis 2:7\nThen the LORD God formed a man from the dust of the ground and breathed into his nostrils the breath of life, and the man became a living being.</item>
+        <item>Isaiah 40:31\nbut those who hope in the LORD will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.</item>
+        <item>John 8:12\n12 When Jesus spoke again to the people, he said, “I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.”</item>
+        <item>John 3:16\nFor God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.</item>
+        <item>Have no fear of moving into the unknown. Simply step out fearlessly knowing that I am with you, therefore no harm can befall you; all is very, very well. Do this in complete faith and confidence.\n Pope John Paul II</item>
+        <item>Young people are threatened... by the evil use of advertising techniques that stimulate the natural inclination to avoid hard work by promising the immediate satisfaction of every desire. \nPope John Paul II</item>
+        <item>The future starts today, not tomorrow. \nPope John Paul II</item>
+        <item>Little children, you are from God, and have conquered them; for the one who is in you is greater than the one who is in this world.\nJesus Christ</item>
+        <item>Let us then approach God’s throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.\nHebrews 4:16</item>
+        <item>But go and learn what this means: ‘I desire mercy, not sacrifice.’ For I have not come to call the righteous, but sinners.\nMatthew 9:13 </item>
+        <item>But because of his great love for us, God, who is rich in mercy, made us alive with Christ even when we were dead in transgressions—it is by grace you have been saved.\nEphesians 2:4-5</item>
+        <item>For if you forgive other people when they sin against you, your heavenly Father will also forgive you.\nMatthew 6:14 </item>
+        <item>Yet the Lord longs to be gracious to you; therefore he will rise up to show you compassion. For the Lord is a God of justice. Blessed are all who wait for him!\nIsaiah 30:18 </item>
+        <item>Therefore, I urge you, brothers and sisters, in view of God’s mercy, to offer your bodies as a living sacrifice, holy and pleasing to God—this is your true and proper worship.\nRomans 12:1 </item>
+        <item>May the favor of the Lord our God rest on us; establish the work of our hands for us - yes, establish the work of our hands.\nPsalm 90:17</item>
+        <item>Good will come to those who are generous and lend freely, who conduct their affairs with justice.\nPsalm 112:5 </item>
+        <item>Do not withhold your mercy from me, Lord; may your love and faithfulness always protect me.\nPsalm 40:11</item>
+    </string-array>
+
+    <string name="quotes_text">The best Bible Quotes</string>
+    <string name="button">Next</string>
+
+</resources>
