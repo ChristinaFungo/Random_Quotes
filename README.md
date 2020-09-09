@@ -3,4 +3,4 @@
 - animation (AnimationDrawable, ConstraintLayout)
 - splash screen (Handler, Runnable, Intent)
 
-![20200901_201010 1](https://user-images.githubusercontent.com/50912029/91884786-57753900-ec8f-11ea-8630-415c294e8103.gif)
+![20200909_152214](https://user-images.githubusercontent.com/50912029/92597659-66bc3e00-f2b0-11ea-9c9c-e05acee6f34b.gif)
